@@ -28,8 +28,10 @@ We will appreciate any suggestions and comments. If you find this code being hel
 }
 ```
 
-## 1. Dependencies
-## 2. Data Structures 
+### Dependencies
+## 1. Train the OT-gudied Image-to-Image Translation Network 
+
+## 2. Run the Regularization by Enhancing during inference 
 
 ### License
 Released under the [ASU GitHub Project License](https://github.com/Retinotopy-mapping-Research/DRRM/blob/master/LICENSE.txt).
