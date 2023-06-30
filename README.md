@@ -29,7 +29,7 @@ We will appreciate any suggestions and comments. If you find this code being hel
 ```
 
 ### Dependencies
-## 1. Train the OT-gudied Image-to-Image Translation Network 
+## 1. Train the OT-gudied GAN 
 
 ## 2. Run the Regularization by Enhancing during inference 
 
