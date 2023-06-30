@@ -18,6 +18,12 @@ We will appreciate any suggestions and comments. If you find this code being hel
   year={2023},
   organization={Springer}
 }
+@article{zhu2023optimal,
+  title={Optimal Transport Guided Unsupervised Learning for Enhancing low-quality Retinal Images},
+  author={Zhu, Wenhui and Qiu, Peijie and Farazi, Mohammad and Nandakumar, Keshav and Dumitrascu, Oana M and Wang, Yalin},
+  journal={arXiv preprint arXiv:2302.02991},
+  year={2023}
+}
 ```
 
 ### License
