@@ -1,6 +1,6 @@
 # Optimal-Transport gudied Retinal Image Enhancement 
 
-### [IPMI'2023] [OTRE: Where Optimal Transport Guided Unpaired Image-to-Image Translation Meets Regularization by Enhancing](https://arxiv.org/pdf/2302.03003.pdf))
+#### [IPMI'2023] [OTRE: Where Optimal Transport Guided Unpaired Image-to-Image Translation Meets Regularization by Enhancing](https://arxiv.org/pdf/2302.03003.pdf))
 
 <img src="images/network-final.png"/>
 
