@@ -1,1 +1,1 @@
-No-Reference Quality Assessment Metric Protocol
+# No-Reference Retinal Image Quality Visual Assessment Metric Protocol.
