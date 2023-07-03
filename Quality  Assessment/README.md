@@ -15,3 +15,6 @@ In the denoise task, it is easy for the generative model to ignore the lesion st
 <p align="center">
   <img src="IMG/lesion_structure3.png" des="Lesion structure loss"/>
 </p>
+
+
+![Lesion structure loss](https://github.com/Retinal-Research/REDOT/blob/main/Quality%20%20Assessment/IMG/lesion_structure1.png)
