@@ -9,8 +9,12 @@ In the denoise task, it is easy for the generative model to ignore the lesion st
 <p align="center">
   <img src="IMG/lesion_structure1.png"/>  
   Lesion structure changed after denoised  
+</p>
+<p align="center">
   <img src="IMG/lesion_structure2.png"/>
   Keep the lesion structure
+</p>
+<p align="center">
   <img src="IMG/lesion_structure3.png"/>
   Lesion structure loss
 </p>
