@@ -19,8 +19,21 @@ In the denoise task, it is easy for the generative model to ignore the lesion st
 ## (2).	Background Color 
 We consider that many retinopathies are related to the background color, So the denoise images need to keep the main color does not have a big change.
 
-### Background color changed after denoise
+### Background color changed after Denoise
 <img src="IMG/bg1.png"/> 
 
-### Background color does not have big changes after denoise
+### Background color does not have big changes after Denoise
 <img src="IMG/bg2.png"/> 
+
+
+## (3).	Generating extra Structures
+For noise reduction tasks without paired data, most use adversarial generative models to denoise low-quality images by learning the distribution of high-quality images. However, a major problem with generative models is that generate some unexpected regions and structures. For example, additional vessels, and new retinal regions.
+
+### Generate new vessel structures
+<img src="IMG/bg1.png"/> 
+
+### Generate new retinal regions
+<img src="IMG/bg2.png"/> 
+
+### Keep structures consistent, no extra structures are added
+<img src="IMG/bg3.png"/> 
