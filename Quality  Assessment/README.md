@@ -16,7 +16,7 @@ In the denoise task, it is easy for the generative model to ignore the lesion st
 <img src="IMG/lesion_structure3.png"/> 
 
 
-## (1). (2)	Background Color 
+## (2).	Background Color 
 We consider that many retinopathies are related to the background color, So the denoise images need to keep the main color does not have a big change.
 
 ### Background color changed after denoise
