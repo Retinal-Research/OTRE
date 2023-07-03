@@ -7,11 +7,11 @@ The main assessment indicators come from three points: (1) Lesion structure; (2)
 In the denoise task, it is easy for the generative model to ignore the lesion structure. The denoised images lesion and the original images do not match. The main assessment method is the consistency of lesion structure and loss of lesion information.
               -      Lesion structure changed after denoised  
 <p align="center">
-  <img src="IMG/lesion_structure1.png" alt="Lesion structure changed after denoised"/>    
+  <img src="IMG/lesion_structure1.png" des="Lesion structure changed after denoised"/>    
 </p>
 <p align="center">
-  <img src="IMG/lesion_structure2.png" alt=" Keep the lesion structure"/>
+  <img src="IMG/lesion_structure2.png" des=" Keep the lesion structure"/>
 </p>
 <p align="center">
-  <img src="IMG/lesion_structure3.png" alt="Lesion structure loss"/>
+  <img src="IMG/lesion_structure3.png" des="Lesion structure loss"/>
 </p>
