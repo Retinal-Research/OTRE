@@ -30,10 +30,10 @@ We consider that many retinopathies are related to the background color, So the 
 For noise reduction tasks without paired data, most use adversarial generative models to denoise low-quality images by learning the distribution of high-quality images. However, a major problem with generative models is that generate some unexpected regions and structures. For example, additional vessels, and new retinal regions.
 
 ### Generate new vessel structures
-<img src="IMG/bg1.png"/> 
+<img src="IMG/ges1.png"/> 
 
 ### Generate new retinal regions
-<img src="IMG/bg2.png"/> 
+<img src="IMG/ges2.png"/> 
 
-### Keep structures consistent, no extra structures are added
-<img src="IMG/bg3.png"/> 
+### Keep structures consistent. No extra structures are added
+<img src="IMG/ges3.png"/> 
