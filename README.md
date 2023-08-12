@@ -1,7 +1,7 @@
 # Optimal-Transport guided Retinal Image Enhancement 
 
 ### [IPMI '2023] [OTRE: Where Optimal Transport Guided Unpaired Image-to-Image Translation Meets Regularization by Enhancing](https://arxiv.org/pdf/2302.03003.pdf))
-### [ISBI '2023] [Optimal Transport Guided Unsupervised Learning for Enhancin Low-Quality Retinal Images](https://github.com/Retinal-Research/OTE-GAN) Include Other basedline GAN model and training code
+### [ISBI '2023] [Optimal Transport Guided Unsupervised Learning for Enhancin Low-Quality Retinal Images](https://github.com/Retinal-Research/OTE-GAN) Include Other baseline GAN models and training code
 <img src="images/network-final.png"/>
 
 **Abstract** 
